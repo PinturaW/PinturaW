@@ -3,15 +3,6 @@
 
 ---
 
-## 🏆 Recent Achievements
-
-- 🥇 **Winner** - "The Future of Finance with GHB", GHB Open Innovation Hackathon 2025
-- 🥇 **Winner** - Hackathon Last Mile Delivery Business Model Challenge 2025
-- 🥈 **1st Runner-up** - The Next-Gen Insurance Innovation Competition 2025
-- 📊 **92% accuracy** achieved in Phishing Detection using fine-tuned BERT model
-
----
-
 ## 👨‍💻 About Me
 
 - 🎓 **Currently studying** Digital Engineering at **Thammasat University (SIIT)** with a minor in Data Science
@@ -20,22 +11,6 @@
 - 💬 **Ask me about:** Python, Java, JavaScript, Machine Learning, NLP, Database Design, RESTful APIs
 - ⚡ **Fun fact:** Multiple hackathon winner with projects ranging from pet transportation to AI-powered financial inclusion!
 - 📫 **How to reach me:** wichuon.cha@gmail.com
-
----
-
-## 📂 Featured Projects
-
-### 🔍 [Phishing Detection: ML vs LLM Comparison](https://github.com/PinturaW/Performance-Comparison-Phishing-Supervised-Models-vs.-LLM-Approaches)
-**Technologies:** Python, Scikit-learn, Hugging Face Transformers, PyTorch, BERT  
-Compared traditional supervised learning (TF-IDF + SVM) with fine-tuned BERT for phishing detection. Achieved 92% accuracy with BERT fine-tuning, demonstrating the power of LLMs in cybersecurity applications.
-
-### 🐾 [VetCare Clinic Management System](https://github.com/PinturaW/VetCare-Clinic-Management-System)
-**Technologies:** HTML, SQL, CSS, PHP, MySQL  
-Web-based system for veterinary clinics to manage appointments, track patient history, monitor vaccinations, and send treatment reminders.
-
-### 🌻 [Plant the Sunflower - Java 2D Game](https://github.com/PinturaW/Plant-the-Sunflower-Java-2D-Game)
-**Technologies:** Java (JDK 17), Swing, OOP  
-2D pixel-art game demonstrating object-oriented principles with tile rendering, collision detection, and custom game loop mechanics.
 
 ---
 
@@ -149,10 +124,6 @@ Web-based system for veterinary clinics to manage appointments, track patient hi
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pinturaw&show_icons=true&locale=en&theme=radical" alt="pinturaw" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pinturaw&theme=radical" alt="pinturaw" />
 </p>
 
 ---
