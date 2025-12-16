@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Wichuon Charoensombat</h1>
-<h3 align="center">Digital Engineering Student | Minor in Data Science</h3>
+<h3 align="center">Digital Engineering Student | Minor in Data Science | Hackathon Winner 🏆</h3>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="coding"/>
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pinturaw&label=Profile%20views&color=0e75b6&style=flat" alt="pinturaw" />
