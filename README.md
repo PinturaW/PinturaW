@@ -86,14 +86,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pinturaw&show_icons=true&locale=en&theme=radical" height="170" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pinturaw&show_icons=true&locale=en&layout=compact&theme=radical" height="170" alt="languages graph" />
 </div>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=pinturaw&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 
 ###
 
