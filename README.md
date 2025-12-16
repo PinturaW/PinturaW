@@ -122,10 +122,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pinturaw&show_icons=true&locale=en&layout=compact&theme=radical" alt="pinturaw" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pinturaw&show_icons=true&locale=en&theme=radical" alt="pinturaw" />
-</p>
-
 ---
 
 ## 🌐 Connect with Me
