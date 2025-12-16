@@ -94,17 +94,15 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=pinturaw&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=pinturaw&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy graph"  />
-</div>
 
 ###
 
-<h3 align="center">📊 Contribution Graph</h3>
+<h3 align="center">🐍 Contribution Snake</h3>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pinturaw/pinturaw/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pinturaw/pinturaw/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pinturaw/pinturaw/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pinturaw/pinturaw/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pinturaw/pinturaw/output/snake.svg">
+  <img alt="snake eating contributions" src="https://raw.githubusercontent.com/pinturaw/pinturaw/output/snake.svg">
 </picture>
 
 ###
