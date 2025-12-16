@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wichuon Charoensombat</h1>
-<h3 align="center">Digital Engineering Student | Minor in Data Science | Hackathon Winner 🏆</h3>
+<h3 align="center">Digital Engineering Student | Minor in Data Science</h3>
 
 ---
 
