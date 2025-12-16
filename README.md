@@ -1,16 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wichuon Charoensombat</h1>
 <h3 align="center">Digital Engineering Student | Minor in Data Science | Hackathon Winner 🏆</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pinturaw&label=Profile%20views&color=0e75b6&style=flat" alt="pinturaw" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=pinturaw&theme=onedark&no-frame=true&row=1&column=7" alt="pinturaw" />
-  </a>
-</p>
-
 ---
 
 ## 🏆 Recent Achievements
@@ -18,7 +8,6 @@
 - 🥇 **Winner** - "The Future of Finance with GHB", GHB Open Innovation Hackathon 2025
 - 🥇 **Winner** - Hackathon Last Mile Delivery Business Model Challenge 2025
 - 🥈 **1st Runner-up** - The Next-Gen Insurance Innovation Competition 2025
-- 🎯 **Finalist** - Dragonfly Challenge 2025: Agri Ideas – Feature for Farmers
 - 📊 **92% accuracy** achieved in Phishing Detection using fine-tuned BERT model
 
 ---
@@ -165,25 +154,6 @@ Web-based system for veterinary clinics to manage appointments, track patient hi
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pinturaw&theme=radical" alt="pinturaw" />
 </p>
-
----
-
-## 🎓 Certifications
-
-**Technical:**
-- Foundation AI (Theory) - Artificial Intelligence Association of Thailand
-- Software Engineer Certificate - HackerRank
-- JavaScript (Intermediate) - HackerRank
-- SQL (Advanced) - HackerRank
-
-**Business & Analytics:**
-- Business Analysis & Process Management - Coursera
-- Data Analysis with Python - freeCodeCamp
-- Introduction to Data Analysis using Microsoft Excel - Coursera
-
-**ESG & Sustainability:**
-- Certificate in ESG Management Program - ESG Super Seed
-- ESG101: Fundamentals of Sustainability - ESG Super Seed
 
 ---
 
