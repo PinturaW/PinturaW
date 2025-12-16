@@ -95,17 +95,7 @@
 
 ###
 
-<h3 align="center">🐍 Snake Eating My Contributions</h3>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pinturaw/pinturaw/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pinturaw/pinturaw/output/snake.svg">
-  <img alt="snake eating contributions" src="https://raw.githubusercontent.com/pinturaw/pinturaw/output/snake.svg">
-</picture>
-
-###
-
-<h3 align="center">🎮 Pacman Eating My Contributions</h3>
+<h3 align="center">🎮 Pacman</h3>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pinturaw/pinturaw/output/pacman-contribution-graph-dark.svg">
