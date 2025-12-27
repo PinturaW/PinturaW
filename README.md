@@ -37,7 +37,7 @@ me.say_hi()
 - 🔭 I'm currently working on **Phishing Detection using ML & LLM**
 - 🌱 I'm currently learning **Deep Learning, Advanced Web Development**
 - 💬 Ask me about **Python, JavaScript, React, Machine Learning**
-- 📫 How to reach me: **wichuon.char@gmail.com**
+- 📫 How to reach me: **wichuon.cha@gmail.com**
 - ⚡ Fun fact: **I love combining AI with practical applications!**
 
 ---
