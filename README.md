@@ -133,81 +133,54 @@ me.say_hi()
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">🔍 Phishing Detection: ML vs LLM</h3>
-<div align="center">  
-<a href="https://github.com/PinturaW/Performance-Comparison-Phishing-Supervised-Models-vs.-LLM-Approaches" target="_blank">
-<img src="https://img.shields.io/badge/View%20Project-0078D4?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
-</a>
-<p><strong>Chrome Extension with fine-tuned BERT achieving 91% accuracy</strong></p>
+<div align="center">
+
+### 🔍 [Phishing Detection: ML vs LLM](https://github.com/PinturaW/Performance-Comparison-Phishing-Supervised-Models-vs.-LLM-Approaches)
+**Chrome Extension with fine-tuned BERT achieving 91% accuracy**
+
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/BERT-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Chrome-4285F4?style=flat&logo=googlechrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
 </p>
-</div>
-</td>
-<td width="50%">
-<h3 align="center">🐾 VetCare Clinic Management</h3>
-<div align="center">  
-<a href="https://github.com/PinturaW/VetCare-Clinic-Management-System" target="_blank">
-<img src="https://img.shields.io/badge/View%20Project-0078D4?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+
+<a href="https://github.com/PinturaW/Performance-Comparison-Phishing-Supervised-Models-vs.-LLM-Approaches">
+  <img src="https://img.shields.io/badge/View%20Project-0078D4?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<p><strong>Web-based veterinary clinic management system</strong></p>
+
+---
+
+### 🐾 [VetCare Clinic Management System](https://github.com/PinturaW/VetCare-Clinic-Management-System)
+**Web-based veterinary clinic management with PHP & MySQL**
+
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
 </p>
-</div>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<h3 align="center">🌻 Plant the Sunflower</h3>
-<div align="center">  
-<a href="https://github.com/PinturaW/Plant-the-Sunflower-Java-2D-Game" target="_blank">
-<img src="https://img.shields.io/badge/View%20Project-0078D4?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+
+<a href="https://github.com/PinturaW/VetCare-Clinic-Management-System">
+  <img src="https://img.shields.io/badge/View%20Project-0078D4?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<p><strong>Java 2D game demonstrating OOP principles</strong></p>
+
+---
+
+### 🌻 [Plant the Sunflower - Java 2D Game](https://github.com/PinturaW/Plant-the-Sunflower-Java-2D-Game)
+**Object-oriented game demonstrating OOP principles**
+
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/OOP-FF6B6B?style=flat"/>
   <img src="https://img.shields.io/badge/Game_Dev-4CAF50?style=flat"/>
+  <img src="https://img.shields.io/badge/Swing-007396?style=flat&logo=java&logoColor=white"/>
 </p>
-</div>
-</td>
-<td width="50%">
-<h3 align="center">💡 More Projects Coming Soon...</h3>
-<div align="center">
-<p><strong>Stay tuned for more exciting projects!</strong></p>
-<p>
-  <img src="https://img.shields.io/badge/AI-00ADD8?style=flat"/>
-  <img src="https://img.shields.io/badge/Web_Apps-FF69B4?style=flat"/>
-  <img src="https://img.shields.io/badge/Mobile-9C27B0?style=flat"/>
-</p>
-</div>
-</td>
-</tr>
-</table>
 
----
+<a href="https://github.com/PinturaW/Plant-the-Sunflower-Java-2D-Game">
+  <img src="https://img.shields.io/badge/View%20Project-0078D4?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pinturaw&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pinturaw&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pinturaw&theme=radical&hide_border=true" alt="streak stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pinturaw&theme=react-dark&hide_border=true&area=true" alt="activity graph" />
 </div>
 
 ---
