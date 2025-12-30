@@ -34,7 +34,7 @@ me = WichuonCharoensombat()
 me.say_hi()
 ```
 
-- 🔭 I'm currently working on **Phishing Detection using ML & LLM**
+- 🔭 I'm currently working on **Garden Expense Tracker**
 - 🌱 I'm currently learning **Deep Learning, Advanced Web Development**
 - 💬 Ask me about **Python, JavaScript, React, Machine Learning**
 - 📫 How to reach me: **wichuon.cha@gmail.com**
