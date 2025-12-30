@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Wichuon+Charoensombat;Digital+Engineering+Student;Data+Science+Enthusiast;Tech+Innovation+%26+Business+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Wichuon+Charoensombat;Digital+Engineering+Student;AI+%26+Data+Science+Enthusiast;Business+Tech+Innovator+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">🎓 Digital Engineering Student | Minor in Data Science</h3>
@@ -7,12 +7,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="coding"/>
 </div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pinturaw&label=Profile%20views&color=0e75b6&style=flat" alt="pinturaw" />
-  <img src="https://img.shields.io/github/followers/pinturaw?label=Followers&style=social" alt="followers" />
-  <img src="https://img.shields.io/github/stars/pinturaw?label=Stars&style=social" alt="stars" />
-</p>
 
 ---
 
